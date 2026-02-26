@@ -1,6 +1,6 @@
 # grants-and-programs
 Interledger Foundation Grants and Programs
-About the ILF Programs Team
+**About the ILF Programs Team**
 
 The Programs Team works across multiple countries, managing grants and building long-term relationships with partners working in:
 	•	Technology
@@ -27,30 +27,30 @@ Impact Highlights
 
 Our grantmaking and partnerships have helped kick-start:
 
-🌍 Educational Ecosystems
+🌍 **Educational Ecosystems**
 
 University partnerships across three continents, building a long-term talent pipeline through students and professors.
 
-💳 Live Financial Pilots
+💳 **Live Financial Pilots**
 
 Regulated financial service providers testing real payment flows with real users.
 
-🏛 Policy Leadership
+🏛 **Policy Leadership**
 
 Direct engagement with global policy forums (including the United Nations) to align open payments with public-interest goals.
 
 ⸻
 
-Grant Tracks
+**Grant Tracks**
 
-Digital Financial Services
+# Digital Financial Services
 
-We are building a global, open payments network designed to empower:
+**We are building a global, open payments network designed to empower:**
 	•	Financial service providers
 	•	Fintech innovators
 	•	Businesses
 
-By building on Interledger, organizations unlock:
+**By building on Interledger, organizations unlock:**
 	•	Frictionless global transactions
 	•	Micropayments
 	•	Cross-currency interoperability
@@ -60,7 +60,7 @@ Note: The 2025 application window has closed. Stay tuned for new opportunities i
 
 ⸻
 
-Interledger | Enabled
+# Interledger | Enabled
 
 (Up to $250,000 USD)
 
@@ -75,7 +75,7 @@ This track supports integration of Rafiki into existing financial infrastructure
 
 ⸻
 
-Interledger | Unlocked
+# Interledger | Unlocked
 
 (Up to $150,000 USD)
 
@@ -83,7 +83,7 @@ For web-based platforms (e.g., e-commerce sites, donation platforms) seeking to 
 
 ⸻
 
-What You Need to Know (Digital Financial Services)
+**What You Need to Know** (Digital Financial Services)
 
 Who is eligible?
 	•	Registered corporations
@@ -112,7 +112,7 @@ More Information
 
 ⸻
 
-NextGen Higher Education Grant
+# NextGen Higher Education Grant
 
 Grants up to $50,000 USD
 
@@ -141,9 +141,9 @@ Note: The 2025 application window has closed. Stay tuned for new opportunities i
 
 ⸻
 
-What You Need to Know (NextGen)
+**What You Need to Know** (NextGen)
 
-Who is eligible?
+**Who is eligible?**
 	•	Public and private two- to four-year institutions
 	•	Institutional systems or consortia
 	•	University-affiliated research centers or laboratories
@@ -167,7 +167,7 @@ Open payments, open-source development, fintech, sustainable development
 
 ⸻
 
-Ambassadors Program
+# Ambassadors Program
 
 The Ambassador Program is for individuals passionate about activating communities that have been systematically excluded from financial access and empowerment.
 
@@ -187,9 +187,9 @@ Stay connected:
 
 ⸻
 
-Grant for the Web
+# Grant for the Web
 
-Program Overview
+**Program Overview**
 
 Since 2025, the Grant for the Web program has awarded $400,000 to support content publishers and publishing platforms.
 
@@ -201,7 +201,7 @@ Using Web Monetization technology.
 
 ⸻
 
-Web Monetization
+# Web Monetization
 
 Web Monetization enables content creators and publishers to earn revenue directly from their audiences through:
 	•	Small, automatic payments
@@ -224,7 +224,7 @@ Stay informed through our community forum and email newsletter.
 
 ⸻
 
-Stay Connected
+# Stay Connected
 
 You can:
 	•	Email our Programs Team with questions

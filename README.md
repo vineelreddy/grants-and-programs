@@ -229,3 +229,6 @@ You can:
 	•	Join our mailing list for grant updates
 	•	Participate in our community space
 	•	Follow featured grantees and ambassadors
+
+remote_theme: pages-themes/minimal@v0.2.0
+

@@ -2,7 +2,7 @@
 
 **About the ILF Programs Team**
 
-The Programs Team works across multiple countries, managing grants and building long-term relationships with partners working in:
+The Interledger Foundation works across multiple countries, managing grants and building long-term relationships with partners working in:
 	•	Technology
 	•	Policy
 	•	Global development
@@ -106,7 +106,7 @@ Funds may support:
 
 More Information
 	•	Submit a Grant Inquiry Request Form
-	•	Email: programteam@interledger.org
+	•	Email: programteam (at) interledger (dot) org
 	•	Join our Slack channel: #cfp-financial-services
 	•	Sign up for the ILF Newsletter
 

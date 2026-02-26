@@ -1,6 +1,6 @@
-# Interledger Grants and Programs
+# Interledger Grants
 
-**About the ILF Programs Team**
+**About Interledger Grants and Programs**
 
 The Interledger Foundation works across multiple countries, managing grants and building long-term relationships with partners working in:
 	•	Technology

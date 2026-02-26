@@ -23,7 +23,7 @@ We fund and support individuals and institutions building:
 
 ⸻
 
-Impact Highlights
+# Impact Highlights
 
 Our grantmaking and partnerships have helped kick-start:
 

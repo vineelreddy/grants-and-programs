@@ -118,9 +118,7 @@ Grants up to $50,000 USD
 
 Available to higher education institutions seeking to inspire students to advocate, champion, and innovate solutions for inclusive digital financial systems.
 
-⸻
-
-Program Overview
+**Program Overview**
 
 The Interledger-NextGen Higher Education Program advances:
 	•	Research

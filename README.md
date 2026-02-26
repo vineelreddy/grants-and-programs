@@ -1,4 +1,4 @@
-# grants-and-programs
+# Interledger Grants and Programs
 Interledger Foundation Grants and Programs
 **About the ILF Programs Team**
 
